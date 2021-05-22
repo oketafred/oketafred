@@ -2,7 +2,9 @@
 <h3 align="left">A passionate Full-stack Software Engineer</h3>
 <hr/>
 <h3> Areas Of Specialization</h3>
+
 <p>
+   <img alt="VueJS" src="https://img.shields.io/badge/-VueJS-13aa52?style=flat-square&logo=vue&logoColor=white" href="https://https://vuejs.org//"/>
    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
 
