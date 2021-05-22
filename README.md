@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Oketa Fred</h1>
-<h3 align="center">A passionate Full-stack Software Developer from Uganda</h3>
-
+### Hi, am Oketa Fred there 👋
+<h3 align="left">A passionate Full-stack Software Engineer</h3>
+<hr/>
 <h3> Areas Of Specialization</h3>
 <p>
    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
