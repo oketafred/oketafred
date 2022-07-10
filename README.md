@@ -21,9 +21,7 @@
 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=oketafred&theme=tokyo" />
   
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oketafred&layout=compact)
-
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oketafred&langs_count=10&layout=compact" alt="Oketa Fred :: Top Langs" />
   
 </p>
 </div>
